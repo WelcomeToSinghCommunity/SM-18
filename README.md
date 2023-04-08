@@ -4,7 +4,7 @@ This repository contains the code and data for the experiments conducted as part
 
 ## Experiments
 
-The following is a brief description of each of the 10 experiments contained in this repository :
+The following is a brief description of each of the 10 experiments and one MANOVA Experiment contained in this repository :
 
 ## Code
 The code for the experiments is split into 6 Colab ( .pynb ) files and 4 R files:
@@ -111,3 +111,7 @@ To run an experiment, simply run the relevant Python or R file. Before running, 
 ## Contributors
 
 This repository was created by Kishan Singh, with contributions from Chirag Devgade and Pratham Bagora.
+
+## LICENSE
+
+This repository is licensed under the MIT License. Please see the LICENSE file for more details.
