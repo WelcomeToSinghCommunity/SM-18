@@ -67,6 +67,15 @@ from sklearn.linear_model import LinearRegression
 
 ## R Files
 
+The R experiments require the following packages to be installed:
+
+```sh
+ - tidyverse
+ - dplyr
+ - ggplot2
+ - tidyr
+```
+
 Experiment 7 - This experiment demonstrates how to plot boxplots using R and RStudio.
 
 Experiment 8 - This experiment demonstrates how to plot various graphs in R, such as histograms, ogive curves, and polygon curves.
