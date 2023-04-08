@@ -84,7 +84,7 @@ Therefore, we will have three treatments:
  - Treatment 1 (Control, No Product)
  - Treatment 2 (product 1)
  - Treatment 3 (product 2)
- - 
+ 
 We will use three measurements for defining plant growth:
 
  - Height of the plant
