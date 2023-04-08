@@ -81,14 +81,15 @@ In this Experiment , we will demonstrate that different plant growth products le
 
 Therefore, we will have three treatments:
 
-Treatment 1 (Control, No Product)
-Treatment 2 (product 1)
-Treatment 3 (product 2)
+ - Treatment 1 (Control, No Product)
+ - Treatment 2 (product 1)
+ - Treatment 3 (product 2)
+ - 
 We will use three measurements for defining plant growth:
 
-Height of the plant
-Width of the plant
-Weight of the plant
+ - Height of the plant
+ - Width of the plant
+ - Weight of the plant
 
 ## Data
 
