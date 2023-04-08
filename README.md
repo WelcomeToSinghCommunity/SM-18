@@ -112,10 +112,11 @@ To run an experiment, simply run the relevant Python or R file. Before running, 
 
 This repository was created by Kishan Singh, with contributions from Chirag Devgade and Pratham Bagora.
 If you would like to contribute to this repository, please fork the repository and create a pull request.
-Please read the [contribution guidelines](Contribution Guidelines.md) first.
+Please read the Contribution Guidlines in PLUGINS . All Contributions are Welcome !
 
 ## PLUGINS
 
 | Plugin | README |
 | ------ | ------ |
 | LICENSE | [https://github.com/WelcomeToSinghCommunity/SM-18/blob/master/LICENSE] |
+| Contribution Guidlines | [https://github.com/WelcomeToSinghCommunity/SM-18/blob/master/Contribution%20Guidelines.md] |
