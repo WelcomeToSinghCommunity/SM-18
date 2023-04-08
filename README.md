@@ -1,4 +1,4 @@
-#Subject Statistical Method - Experiments Repository
+# Subject Statistical Method - Experiments Repository
 This repository contains the code and data for the experiments conducted as part of the Subject Statistical Method course. The experiments cover a range of statistical methods and analyses.
 
 Experiments
