@@ -112,6 +112,8 @@ To run an experiment, simply run the relevant Python or R file. Before running, 
 
 This repository was created by Kishan Singh, with contributions from Chirag Devgade and Pratham Bagora.
 
-## LICENSE
+## PLUGINS
 
-This repository is licensed under the MIT License. Please see the LICENSE file for more details.
+| Plugin | README |
+| ------ | ------ |
+| LICENSE | [https://github.com/WelcomeToSinghCommunity/SM-18/blob/master/LICENSE] |
