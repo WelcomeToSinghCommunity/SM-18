@@ -111,7 +111,8 @@ To run an experiment, simply run the relevant Python or R file. Before running, 
 ## Contributors
 
 This repository was created by Kishan Singh, with contributions from Chirag Devgade and Pratham Bagora.
-If you would like to contribute to this repository, please fork the repository and create a pull request. All contributions are welcome!
+If you would like to contribute to this repository, please fork the repository and create a pull request.
+Please read the [contribution guidelines](Contributions Guidlines.md) first.
 
 ## PLUGINS
 
