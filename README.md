@@ -1,22 +1,9 @@
 # Subject Statistical Method - Experiments Repository
-This repository contains the code and data for the experiments conducted as part of the Subject Statistical Method course. The experiments cover a range of statistical methods and analyses.
 
-Experiments
-There are 10 experiments conducted in this repository, divided into 3 case studies:
+This repository contains the code and data for the experiments conducted as part of the Subject Statistical Method course. The experiments cover a range of statistical methods and analysis.
 
-Case Study 1 - BigChurn Dataset
-Experiment 1 - Descriptive statistics
-Experiment 2 - Hypothesis testing
-Experiment 3 - Regression analysis
-Case Study 2 - Analysis of a Medical Dataset
-Experiment 4 - Data preprocessing
-Experiment 5 - Survival analysis
-Experiment 6 - Clustering analysis
-Case Study 3 - Analysis of a Marketing Dataset
-Experiment 7 - Factor analysis
-Experiment 8 - Discriminant analysis
-Experiment 9 - Time series analysis
-Experiment 10 - Bayesian analysis
+## Experiments
+
 Code
 The code for the experiments is split into 6 Colab ( .pynb ) files and 4 R files:
 
