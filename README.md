@@ -11,7 +11,7 @@ The code for the experiments is split into 6 Colab ( .pynb ) files and 4 R files
 
 ## Python Files
 
-Experiment 1
+Experiment 1 - This experiment analyzes the bigmlchurn-20 dataset and performs complete EDA to find useful insights.
 
 Libraries to be imported
 
@@ -20,18 +20,75 @@ import pandas as pd
 import numpy as np
 ```
 
-experiment2.pynb: code for Experiment 2
-experiment3.pynb: code for Experiment 3
-experiment4.pynb: code for Experiment 4
-experiment5.pynb: code for Experiment 5
-experiment6.pynb: code for Experiment 6
+Experiment 2 - This experiment computes the measures of central tendency of 4 different datasets using Python.
+
+Experiment 3 - This experiment analyzes the NBA leaderboard data, which was taken through a real-time API. The link to the separate repository containing the code for this experiment is provided in the readme file for this experiment.
+
+```sh
+import matplotlib.pyplot as plt
+import pandas as pd
+import numpy as np
+import seaborn as sns
+import statsmodels.api as sm
+from sklearn.linear_model import LinearRegression as slr
+```
+
+Experiment 4 - This experiment analyzes the NHANES dataset and performs EDA to find useful insights.
+
+```sh
+import matplotlib.pyplot as plt
+import pandas as pd
+import numpy as np
+import seaborn as sns
+```
+
+Experiment 5 - This experiment performs linear regression on the IRIS dataset using Python.
+
+```sh
+import pandas as pd
+import numpy as np
+from sklearn.linear_model import LinearRegression
+from sklearn.model_selection import train_test_split
+import matplotlib.pyplot as plt
+from sklearn.preprocessing import OneHotEncoder
+from sklearn.preprocessing import LabelEncoder
+```
+
+Experiment 6 - This experiment performs multiple regression on the Titanic and Carprice datasets, and multivariate regression on the Carprice dataset using Python.
+
+```sh
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.linear_model import LinearRegression
+```
+
 
 ## R Files
 
-experiment7.R: code for Experiment 7
-experiment8.R: code for Experiment 8
-experiment9.R: code for Experiment 9
-experiment10.R: code for Experiment 10
+Experiment 7 - This experiment demonstrates how to plot boxplots using R and RStudio.
+
+Experiment 8 - This experiment demonstrates how to plot various graphs in R, such as histograms, ogive curves, and polygon curves.
+
+Experiment 9 - This experiment performs linear regression on the IRIS dataset using R.
+
+Experiment 10 - This experiment demonstrates how to compute skewness and kurtosis with and without using the inbuilt function in R.
+
+## MANOVA EXPERIMENT
+
+In this Experiment , we will demonstrate that different plant growth products lead to significantly different plant growth.
+
+Therefore, we will have three treatments:
+
+Treatment 1 (Control, No Product)
+Treatment 2 (product 1)
+Treatment 3 (product 2)
+We will use three measurements for defining plant growth:
+
+Height of the plant
+Width of the plant
+Weight of the plant
 
 ## Data
 
