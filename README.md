@@ -4,22 +4,28 @@ This repository contains the code and data for the experiments conducted as part
 
 ## Experiments
 
-Code
+The following is a brief description of each of the 10 experiments contained in this repository :
+
+## Code
 The code for the experiments is split into 6 Colab ( .pynb ) files and 4 R files:
 
-Python Files
+## Python Files
+
 experiment1.pynb: code for Experiment 1
 experiment2.pynb: code for Experiment 2
 experiment3.pynb: code for Experiment 3
 experiment4.pynb: code for Experiment 4
 experiment5.pynb: code for Experiment 5
 experiment6.pynb: code for Experiment 6
-R Files
+
+## R Files
+
 experiment7.R: code for Experiment 7
 experiment8.R: code for Experiment 8
 experiment9.R: code for Experiment 9
 experiment10.R: code for Experiment 10
 Data
+
 The data for the experiments is contained in the data folder. Each experiment has its own data file in CSV format.
 
 Running the Experiments
